@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(./sky\ pic.avif);
+    background-size: cover;
+    background-position: center;
+}
+h1{
+    background-color:rgb(74, 135, 159);
+    color: aliceblue;
+    margin: 10px;
+    font-family: "Oleo Script", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+
+}
+#div{
+    height: 200px;
+    width: 400px;
+    margin: auto;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 3px solid;
+    border-radius: 20px;
+background-image: url(./red\ rose.avif);
+color: rgb(246, 247, 248);
+font-size: x-large;
+border-color: rgb(250, 246, 246);
+}
+#div2{
+    color:white;
+    background-color: rgb(56, 111, 132);
+    text-align: center;
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    margin: auto;
+    height: 30px;
+    width: 500px;
+}
